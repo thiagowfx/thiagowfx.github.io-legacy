@@ -1,0 +1,31 @@
+---
+title: Clojure
+date: 2015-01-21
+tags: clojure, programming
+---
+
+Clojure combines the best features from functional programming (lisp) and web
+development.
+
+* 4clojure
+[[https://www.4clojure.com/]]
+
+This is a great resource to practice your clojure skills. It contains some
+problems of the classic [[http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html][L-99: Ninety-Nine Lisp Problems.]]
+
+** Pros
+- tracks the problems you solve
+- shows solutions of other users (only after you complete yours first...)
+- problems can be sorted by their difficulty order
+- your account can be deleted anytime (no lock-in), your username can me changed
+
+** Cons
+- its test cases can be easily circumvented
+
+* Try Clojure
+[[http://www.tryclj.com/]]
+
+An on-line REPL (read-eval-print loop). In other words, it is a place where you
+can "test-drive" clojure on-line, right into your browser, without installing
+anything! It can also be useful if you're in a hurry, or borrowing a machine
+from a friend.

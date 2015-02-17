@@ -1,0 +1,47 @@
+---
+title: Linux Kernel
+date: 2015-01-22
+tags: linux, operating systems
+---
+
+*Convention*: # means /root/ user, $ means non-root.
+
+* Working with modules
+** Adding a module to a running kernel
+#+BEGIN_SRC sh
+# insmod hello.ko
+#+END_SRC
+
+An alternative option is to use =modprobe=; however, the module must be
+installed first (present on /lib/modules for the currently running kernel).
+
+#+BEGIN_SRC sh
+# modprobe hello
+#+END_SRC
+
+Now, how to confirm we added it?
+
+*** Option #1.
+#+BEGIN_SRC
+$ dmesg | tail
+#+END_SRC
+
+*** Option #2.
+Run =$ udevadm monitor= before adding the module.
+
+*** Option #3. 
+If your linux distro uses systemd:
+
+#+BEGIN_SRC sh
+$ journalctl -xbf -n 10
+#+END_SRC
+
+** Getting information about a module
+#+BEGIN_SRC sh
+$ modinfo hellousb.ko
+#+END_SRC
+** Removing a module of a running kernel
+#+BEGIN_SRC sh
+# rmmod hello
+#+END_SRC
+

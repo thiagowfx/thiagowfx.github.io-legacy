@@ -1,0 +1,17 @@
+---
+title: Conferences / Events
+date: 2015-02-14
+tags: computing, technology
+---
+
+* Campus Party Brasil (CPBR)
+- campuse.ro
+- YouTube Channel
+* DEFCON
+* OSCON
+* FOSDEM
+* FISL
+* Google Tech Talks
+* Strange Loop
+* O'Reilly
+* (toedit) --> Live Voltage

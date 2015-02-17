@@ -1,0 +1,20 @@
+---
+title: Git
+date: 2015-01-21
+tags: git, programming, vcs
+---
+
+* Git-game
+[[https://github.com/hgarc014/git-game]]
+
+A simple game to test your git skills. Of course, the game ifself is distributed
+in git. It is really simple -- not a challenge.
+
+** Pros
+- KISS and well written
+- you can learn something if you're a git newbie, and probably will find it fun
+  if you're already used to git
+
+** Cons
+- not really a tutorial
+- you can fast-forward the game by early checking out to branches you're not supposed to

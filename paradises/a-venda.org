@@ -1,0 +1,21 @@
+---
+title: À Venda
+date: 2015-01-26
+---
+
+* Matemática
+
+Eis alguns livros que eu costumava utilizar para estudar *matemática* durante a
+OBMEP, mas que provavelmente não usarei mais.
+
+- OBS.: Os que estiverem sem preço serão negociados, tomando como preço de
+  referência o que estiver nos sites oficiais (SBM, IMPA, etc) -- não será mais
+  caro que isso.
+
+** A Matemática do Ensino Médio, Volume 3
+6a edição.
+Upstream: http://loja.sbm.org.br/index.php/a-matematica-no-ensino-medio-volume-3.html
+
+** Trigonometria e Números Complexos
+3a edição.
+Upstream: http://loja.sbm.org.br/index.php/trigonometria-e-numeros-complexos.html

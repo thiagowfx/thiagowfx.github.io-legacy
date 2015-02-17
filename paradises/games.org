@@ -1,0 +1,110 @@
+---
+title: Games
+date: 2015-01-28
+tags: gaming
+---
+
+* Metadata
+
+  - This list is still both *in beta* and *in construction*.
+  - I don't intend to track every game I ever played, but instead:
+    - every (enjoyable) game I play from now on; with luck and patience, I might add comments about them
+    - games of the past that I most liked
+  - How can I *review* those games? 0.0--5.0 stars.
+  - Ordered by: release date.
+
+* Games
+
+** Dune 2000 (1998)
+
+  - 5.0/5.0 stars.
+  - RTS.
+  - Developed by Westwood.
+  - Played it so many times (PS1 and PC), with all three houses (Harkonnen,
+    Atreides and Ordos).
+  - Original: Dune 2 (MS-DOS)
+  - Sequel: Emperor: Battle for Dune (PC)
+  - [[https://en.wikipedia.org/wiki/Dune_2000][Wikipedia]]
+  - [[http://dune2k.com/Duniverse/][Upstream]]
+  - Serendipity: Dune is a huge novel; there are several books written by Frank
+    Herbert about it which I believe are worth reading.
+  - Community:
+    - I managed to play Dune2k on-line (yes!) a few times. 
+      - Hamachi -- to create a LAN between Windows computers, but this is
+        probably deprecated nowadays
+      - [[http://www.openra.net/][OpenRA]] -- an open-source engine, which has a Dune2k mod. The mod isn't
+        as good as the original, but it is a good approximation
+      - [[http://d2kplus.com/][d2kplus]] -- the most modern way I know to play it
+    - [[https://www.youtube.com/user/aKaFeda][akaFeda]] and [[https://www.youtube.com/user/radim22][radim22]] -- these guys still play some on-line and off-line
+      matches sometimes
+  - Screencasts: I recorded [[https://www.youtube.com/watch?v=DuwFeS9b4Go&list=PL-HFWady4wL5I41jD-mPtQKwkxDxaeP0p][some of my games]].
+  - Comments: This is the first RTS I played, so it is special for
+    me. Additionally, considering the time it was released, it is very well
+    polished.
+
+** Warcraft III: The Frozen Throne (2003)
+
+  - 4.0/5.0 stars.
+  - At first, a RTS. But its world editor is very complete, so people created
+    several maps from it: tower defenses, RPGs, capture the flags, etc. The most
+    known one is probably [[http://www.playdota.com/][Dota (1)]].
+  - Developed by Blizzard Entertainment.
+  - I played its campaign just a little bit. What I most liked was custom/indie
+    maps released by other players. Dota, dota BYS, warlock, castle fight, pudge
+    wars; those are some examples. Garena and Gameranger were popular clients (PC).
+  - Original: Warcraft 3.
+  - Sequels: World of Warcraft, maybe; and Dota 2.
+  - [[https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne][Wikipedia]].
+  - [[http://us.blizzard.com/en-us/games/war3/][Upstream]].
+  - Community: repositories of custom maps created by other players
+    - [[http://www.hiveworkshop.com/forums/maps.php][hive workshop]]
+    - [[http://www.epicwar.com/maps/][epicwar]]
+
+** The Lord of the Rings: The Third Age (2004)
+  - 5.0/5.0 stars.
+  - RPG, multi characters.
+  - Developed by EA Games.
+  - Played it 2 times (PS2): normal and hard.
+  - [[https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Third_Age][Wikipedia]].
+  - Comments: I always hated RPGs. This is the first one I first enjoyed. Why?
+    It wasn't very long, contained some bonus (extra) features, it was well
+    balanced (neither very easy or very hard) and it was based on a known story
+    (lord of the rings, dude :). I also liked the way the developers created the
+    game for the PlayStation 2: it felt enjoyable to play on it.
+
+** Portal (2007)
+
+  - 5.0/5.0 stars.
+  - First-person puzzle.
+  - Developed by Valve.
+  - Played it 1 time (PC).
+  - Original: [[http://www.kongregate.com/games/dragy/portal-the-flash-version][Portal - The Flash Version]], on Kongregate.
+  - Sequel: Portal 2.
+  - [[https://en.wikipedia.org/wiki/Portal_(video_game)][Wikipedia]]
+  - Comments:
+    Its concepts are innovative and will probably squash your brain a little bit.
+
+** Portal 2 (2011)
+  - 5.0/5.0 stars. Can I give even more??
+  - First-person puzzle.
+  - Developed by Valve.
+  - Played it 2 times (PC).
+    - First one: mind blown.
+    - Second one: for the OST, history, GLaDoS, Wheatley, easter eggs, and to understand its inside jokes.
+  - Original: Portal
+  - Sequel: Aperture Tag (it is a non-official mod, actually)
+  - [[https://en.wikipedia.org/wiki/Portal_2][Wikipedia]]
+  - [[http://www.thinkwithportals.com/][Upstream]]
+  - Serendipity: its [[http://www.thinkwithportals.com/music.php][soundtrack]] is *a-maz-ing*.
+  - Community
+    - [[https://www.youtube.com/user/Harry101UK][Harry101UK]]: this guy has released awesome videos about the game.
+    - Alex Giudici: this guy has created awesome [[https://www.youtube.com/playlist?list=PLC3A7CE9009C91C81][remixes]] of the OST.
+  - Comments: This will always be one of my favorite games. It is way much
+    better than its portal 1 predecessor. It is hard to describe, but I really
+    love it.
+
+* Other played games (ordered alphabetically)
+- ace combat series
+- age of empires series (RTS)
+- star wars: knights of the old republic series (RPG)
+- star wars battlefront 2 (FPS/TPS)

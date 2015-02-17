@@ -1,0 +1,25 @@
+---
+title: Capture the Flag
+date: 2015-02-15
+tags: computing
+---
+
+* meta
+- https://ctftime.org/ctf-wtf/
+
+** style
+- VMs (e.g.: desafio forense do CERT.br na campus party, vulnhub)
+- ssh into a machine (e.g.: ksnctf (partial), bandit (full))
+- general (typical jeopardy: sql injection, crypto, etc)
+
+* ksnctf
+- CTF: http://ksnctf.sweetduet.info/
+- Write-ups: https://manhhomienbienthuy.github.io/
+
+* bandit (from the OverTheWire team)
+- CTF: http://overthewire.org/wargames/bandit/
+- Write-up: http://b00t4nd0.com/
+- Write-up: https://bootando.wordpress.com/
+
+* Twitter
+- @geolado

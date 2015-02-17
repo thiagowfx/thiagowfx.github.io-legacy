@@ -1,0 +1,11 @@
+---
+title: Yearly
+date: 2015-02-14
+tags: computing, technology
+---
+
+* ACM ICPC
+* Google Code Jam
+* Facebook Hacker Cup
+* RoadSec (by Symantec)
+

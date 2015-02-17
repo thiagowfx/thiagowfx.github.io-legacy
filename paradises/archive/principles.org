@@ -1,0 +1,14 @@
+---
+title: Principles
+date: 2015-02-12
+tags: philosophy
+---
+
+A collection of good principles.
+
+- [[https://en.wikipedia.org/wiki/KISS_principle)][KISS - Keep it Simple]]
+- [[https://www.gnu.org/philosophy/free-sw.html][Free]] and [[http://opensource.org/][Open]] Software
+- [[http://www.catb.org/esr/faqs/smart-questions.html][Ask Smartly]]
+- Stay away from [[http://slash7.com/2006/12/22/vampires/][help vampires]]
+- [[https://wiki.archlinux.org/index.php/The_Arch_Way][The Arch Way]]
+- Robustness principle
