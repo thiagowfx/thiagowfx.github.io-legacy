@@ -35,4 +35,4 @@ The **preferred** way to reach me:
 
 ![](http://stackexchange.com/users/flair/1934732.png)
 
-<center>© Thiago Perrotta 2015 &#8226; <a href="https://github.com/thiagowfx/thiagowfx.github.io">source</a></center>
+<p align="center">© Thiago Perrotta 2015 &#8226; <a href="https://github.com/thiagowfx/thiagowfx.github.io">source</a></p>
