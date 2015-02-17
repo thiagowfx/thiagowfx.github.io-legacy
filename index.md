@@ -26,7 +26,7 @@ layout: default
 
 ## Serendipities
 
-2014-07-23 | My [FreeBSD Overview Series](https://thiagoperrotta.wordpress.com/2014/07/20/here-be-dragons-freebsd-overview-part-i/) featured on [BSDNow Ep. 047](http://www.bsdnow.tv/episodes/2014_07_23-des_challenge_iv)
+2014-07-23 | My [FreeBSD Overview Series](https://thiagoperrotta.wordpress.com/2014/07/20/here-be-dragons-freebsd-overview-part-i/) featured on [BSDNow](http://www.bsdnow.tv/episodes/2014_07_23-des_challenge_iv)
 2014-09-05 | Guest on [Hack 'n' Cast Ep. v0.5](http://mindbending.org/pt/hack-n-cast-v05-por-que-usar-gnulinux)
 2014-11-26 | [HackPuc 2014](http://www.poli.ufrj.br/noticias/noticias.php?numnews=2032)
 2015-01-20 | My [interview to "My Linux Rig" blog](http://www.mylinuxrig.com/post/108656757988/the-linux-setup-thiago-perrotta-student)
