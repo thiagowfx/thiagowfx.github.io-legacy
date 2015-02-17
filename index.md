@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The **preferred** way to reach me:
+**Preferred** way to reach me:
 
 - E-mail: `perrotta dot thiago at poli dot ufrj dot br`
 - PGP key: [MIT server](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x755D25D2A905373C) or [here](pgp.asc).
@@ -20,16 +20,16 @@ The **preferred** way to reach me:
 [LinkedIn](http://br.linkedin.com/in/thiagoperrotta) | professional
 [SpeakerDeck](https://speakerdeck.com/thiagowfx) | presentations
 [Tumblr](http://thiagowfx.tumblr.com/) | pins
-[Twitter](http://twitter.com/thiagowfx) | ramblings
+[Twitter](http://twitter.com/thiagowfx) | rants
 [Wordpress](http://thiagoperrotta.wordpress.com) | blog
 [YouTube](http://youtube.com/user/thiagomp40) / [Vimeo](https://vimeo.com/thiagowfx) | videos
 
 ## Serendipities
 
-2014-07-23 | [BSDNow Episode 047 -- FreeBSD Overview Series](http://www.bsdnow.tv/episodes/2014_07_23-des_challenge_iv)
-2014-09-05 | [Hack 'n' Cast: Episode v0.5](http://mindbending.org/pt/hack-n-cast-v05-por-que-usar-gnulinux)
+2014-07-23 | My [FreeBSD Overview Series](https://thiagoperrotta.wordpress.com/2014/07/20/here-be-dragons-freebsd-overview-part-i/) featured on [BSDNow Ep. 047](http://www.bsdnow.tv/episodes/2014_07_23-des_challenge_iv)
+2014-09-05 | Guest on [Hack 'n' Cast Ep. v0.5](http://mindbending.org/pt/hack-n-cast-v05-por-que-usar-gnulinux)
 2014-11-26 | [HackPuc 2014](http://www.poli.ufrj.br/noticias/noticias.php?numnews=2032)
-2015-01-20 | [My Linux Rig Interview](http://www.mylinuxrig.com/post/108656757988/the-linux-setup-thiago-perrotta-student)
+2015-01-20 | My [interview to "My Linux Rig" blog](http://www.mylinuxrig.com/post/108656757988/the-linux-setup-thiago-perrotta-student)
 
 ## Badges
 
