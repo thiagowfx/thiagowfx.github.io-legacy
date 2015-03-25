@@ -29,4 +29,6 @@ Email | `perrotta dot thiago at poli dot ufrj dot br` -- [PGP](http://pgp.mit.ed
 
 ![](http://stackexchange.com/users/flair/1934732.png)
 
+![](https://projecteuler.net/profile/thiagowfx.png)
+
 <p align="center">© Thiago Perrotta 2015 &#8226; <a href="https://github.com/thiagowfx/thiagowfx.github.io">source</a></p>
