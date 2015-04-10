@@ -17,6 +17,16 @@ Email | `perrotta dot thiago at poli dot ufrj dot br` -- [PGP](http://pgp.mit.ed
 [Wordpress](http://thiagoperrotta.wordpress.com) | blog
 [YouTube](http://youtube.com/user/thiagomp40) / [Vimeo](https://vimeo.com/thiagowfx) | videos
 
+<a href="https://stackexchange.com/users/1934732/thiagowfx">
+<img src="http://stackexchange.com/users/flair/1934732.png">
+</a>
+
+<a href="https://projecteuler.net/profile/thiagowfx.png">
+<img src="https://projecteuler.net/profile/thiagowfx.png">
+</a>
+
+<p align="center">© Thiago Perrotta 2015 &#8226; <a href="https://github.com/thiagowfx/thiagowfx.github.io">source</a></p>
+
 ## #achievementunlocked moments
 
 2014-07-23 | My [FreeBSD Overview Series](https://thiagoperrotta.wordpress.com/2014/07/20/here-be-dragons-freebsd-overview-part-i/) featured on [BSDNow](http://www.bsdnow.tv/episodes/2014_07_23-des_challenge_iv)
@@ -50,16 +60,3 @@ Email | `perrotta dot thiago at poli dot ufrj dot br` -- [PGP](http://pgp.mit.ed
   </div>
 	<script src="https://www.goodreads.com/user_challenges/widget/7873832-thiago?challenge_id=3082&v=2"></script>
 </div>
-
-<script src="https://apis.google.com/js/platform.js" async defer></script>
-<div class="g-follow" data-annotation="bubble" data-height="24" data-href="//plus.google.com/u/0/100033514501900492904" data-rel="author"></div>
-
-<a href="https://stackexchange.com/users/1934732/thiagowfx">
-<img src="http://stackexchange.com/users/flair/1934732.png">
-</a>
-
-<a href="https://projecteuler.net/profile/thiagowfx.png">
-<img src="https://projecteuler.net/profile/thiagowfx.png">
-</a>
-
-<p align="center">© Thiago Perrotta 2015 &#8226; <a href="https://github.com/thiagowfx/thiagowfx.github.io">source</a></p>
