@@ -52,10 +52,12 @@ Email | `perrotta dot thiago at poli dot ufrj dot br` -- [PGP](http://pgp.mit.ed
 </div>
 <br/>
 
-![](http://stackexchange.com/users/flair/1934732.png)
+<a href="https://stackexchange.com/users/1934732/thiagowfx">
+<img src="http://stackexchange.com/users/flair/1934732.png">
+</a>
 
 <a href="https://projecteuler.net/profile/thiagowfx.png">
-<img src="https://projecteuler.net/profile/thiagowfx.png"></img>
+<img src="https://projecteuler.net/profile/thiagowfx.png">
 </a>
 
 <p align="center">© Thiago Perrotta 2015 &#8226; <a href="https://github.com/thiagowfx/thiagowfx.github.io">source</a></p>
