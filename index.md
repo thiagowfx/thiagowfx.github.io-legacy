@@ -9,7 +9,6 @@ Email | `perrotta dot thiago at poli dot ufrj dot br` -- [PGP](http://pgp.mit.ed
 [Filmow](http://filmow.com/usuario/thiagowfx/) | movies
 [Flickr](https://www.flickr.com/people/thiagowfx/) | screenshots
 [Github](https://github.com/thiagowfx/) | code
-[Goodreads](http://goodreads.com/thiagowfx) | books
 [Lattes](http://lattes.cnpq.br/8288527832534487) | résumé
 [LinkedIn](http://br.linkedin.com/in/thiagoperrotta) | professional
 [SpeakerDeck](https://speakerdeck.com/thiagowfx) | presentations
@@ -26,6 +25,31 @@ Email | `perrotta dot thiago at poli dot ufrj dot br` -- [PGP](http://pgp.mit.ed
 2015-01-20 | My [interview](http://www.mylinuxrig.com/post/108656757988/the-linux-setup-thiago-perrotta-student) to My Linux Rig blog
 
 ## Badges
+
+<div id="gr_challenge_3082" style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px; max-width:230px; min-height: 100px">
+  <div id="gr_challenge_progress_body_3082" style="font-size: 12px; font-family: georgia,serif;line-height: 18px">
+    <h3 style="margin: 4px 0 10px; font-weight: normal; text-align: center">
+      <a href="https://www.goodreads.com/challenges/3082-2015-reading-challenge" style="text-decoration: none; font-family:georgia,serif;font-style:italic; font-size: 1.1em">2015 Reading Challenge</a>a>
+    </h3>h3>
+    <div class="challengePic">
+      <a href="https://www.goodreads.com/challenges/3082-2015-reading-challenge"><img alt="2015 Reading Challenge" src="https://d.gr-assets.com/challenges/1420220454p2/3082.jpg" style="float:left; margin-right: 10px; border: 0 none" /></a>a>
+    </div>div>
+    <div>
+      <a href="https://www.goodreads.com/user/show/7873832-thiago">Thiago</a>a> has
+      read 38 books toward his goal of 84 books.
+    </div>div>
+    <div style="width: 100px; margin: 4px 5px 5px 0; float: left; border: 1px solid #382110; height: 8px; overflow: hidden; background-color: #FFF">
+      <div style="width: 45%; background-color: #D7D2C4; float: left"><span style="visibility:hidden">hide</span>span></div>div>
+    </div>div>
+    <div style="font-family: arial, verdana, helvetica, sans-serif;font-size:90%">
+      <a href="https://www.goodreads.com/user_challenges/2086647">38 of 84 (45%)</a>a>
+    </div>div>
+    <div style="text-align: right;">
+      <a href="https://www.goodreads.com/user_challenges/2086647" style="text-decoration: none; font-size: 10px;">view books</a>a>
+    </div>div>
+  </div>div>
+  <script src="https://www.goodreads.com/user_challenges/widget/7873832-thiago?challenge_id=3082&v=2"></script>script>
+</div>div>
 
 ![](http://stackexchange.com/users/flair/1934732.png)
 
