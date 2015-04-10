@@ -50,7 +50,6 @@ Email | `perrotta dot thiago at poli dot ufrj dot br` -- [PGP](http://pgp.mit.ed
   </div>
 	<script src="https://www.goodreads.com/user_challenges/widget/7873832-thiago?challenge_id=3082&v=2"></script>
 </div>
-<br/>
 
 <a href="https://stackexchange.com/users/1934732/thiagowfx">
 <img src="http://stackexchange.com/users/flair/1934732.png">
