@@ -51,6 +51,9 @@ Email | `perrotta dot thiago at poli dot ufrj dot br` -- [PGP](http://pgp.mit.ed
 	<script src="https://www.goodreads.com/user_challenges/widget/7873832-thiago?challenge_id=3082&v=2"></script>
 </div>
 
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<div class="g-follow" data-annotation="bubble" data-height="24" data-href="//plus.google.com/u/0/100033514501900492904" data-rel="author"></div>
+
 <a href="https://stackexchange.com/users/1934732/thiagowfx">
 <img src="http://stackexchange.com/users/flair/1934732.png">
 </a>
