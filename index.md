@@ -12,7 +12,6 @@ Email | `perrotta dot thiago at poli dot ufrj dot br` -- [PGP](http://pgp.mit.ed
 [Lattes](http://lattes.cnpq.br/8288527832534487) | résumé
 [LinkedIn](http://br.linkedin.com/in/thiagoperrotta) | professional
 [SpeakerDeck](https://speakerdeck.com/thiagowfx) | presentations
-[Tumblr](http://thiagowfx.tumblr.com/) | pins
 [Twitter](http://twitter.com/thiagowfx) | rants
 [Wordpress](http://thiagoperrotta.wordpress.com) | blog
 [YouTube](http://youtube.com/user/thiagomp40) / [Vimeo](https://vimeo.com/thiagowfx) | videos
