@@ -26,7 +26,7 @@ Email | `<sobrenome>.<nome>@poli.ufrj.br` && [PGP](http://pgp.mit.edu/pks/lookup
   <img src="https://projecteuler.net/profile/thiagowfx.png">
 </a>
 
-<div id="gr_challenge_3082" style="text-align: center; border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px; max-width:230px; min-height: 100px">
+<div id="gr_challenge_3082" style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px; max-width:230px; min-height: 100px">
   <div id="gr_challenge_progress_body_3082" style="font-size: 12px; font-family: georgia,serif;line-height: 18px">
     <h3 style="margin: 4px 0 10px; font-weight: normal; text-align: center">
       <a href="https://www.goodreads.com/challenges/3082-2015-reading-challenge" style="text-decoration: none; font-family:georgia,serif;font-style:italic; font-size: 1.1em">2015 Reading Challenge</a>
