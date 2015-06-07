@@ -58,6 +58,6 @@ Email | `<sobrenome>.<nome>@poli.ufrj.br` && [PGP](http://pgp.mit.edu/pks/lookup
 2014-07-23 | My [FreeBSD Overview Series](https://thiagoperrotta.wordpress.com/2014/07/20/here-be-dragons-freebsd-overview-part-i/) on [BSDNow](http://www.bsdnow.tv/episodes/2014_07_23-des_challenge_iv)
 2014-09-05 | Guest @ [Hack 'n' Cast Ep. v0.5](http://mindbending.org/pt/hack-n-cast-v05-por-que-usar-gnulinux)
 2015-01-20 | Interviewee @ [My Linux Rig](http://www.mylinuxrig.com/post/108656757988/the-linux-setup-thiago-perrotta-student)
-2015-05-31 | Guest @ [Castalio Podcast #66](http://castalio.info/episodio-66-thiago-perrotta-leitura-e-tecnologia.html) ("Leitura e Tecnologia")
+2015-05-31 | Guest @ [Castalio Podcast #66](http://castalio.info/episodio-66-thiago-perrotta-leitura-e-tecnologia.html)
 
 <p align="center">© Thiago Perrotta 2015 &#8226; <a href="https://github.com/thiagowfx/thiagowfx.github.io">source</a></p>
