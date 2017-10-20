@@ -1,0 +1,14 @@
+<ul class="post-list">
+    {% for post in include.posts %}
+    <li>
+         <h6><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h6>
+         <div class="post-list-abstract">
+         {% if post.description %}
+         {{post.description | markdownify}}
+         {% else %}
+         {{post.excerpt | markdownify}}
+         {% endif %}
+         </div>
+    </li>
+    {% endfor %}
+</ul>

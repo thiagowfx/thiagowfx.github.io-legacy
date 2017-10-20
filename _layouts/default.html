@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="{{ "/assets/fonts/vollkorn/4.015/vollkorn.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/fonts/iosevka-ss08/1.13.3/iosevka.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/normalize.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/normalize-opentype.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/highlighting/solarized-light.css" | relative_url }}">
+
+    {% seo %}
+    {% feed_meta %}
+
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </head>
+  <body>
+    <div class="container">
+        {{content}}
+    </div>
+
+    <footer>
+      <div class="container page-footer">
+        <div>
+            <ul>
+                <li><a href="/">Homepage</a></li>
+                <li><a href="{{ "/about/" | relative_url }}">About</a></li>
+            </ul>
+        </div>
+        <div>
+          <ul>
+            <li><a href="{{ "/talks-and-projects/" | relative_url }}">Talks and projects</a></li>
+            <li><a href="{{ "/media" | relative_url }}">Media</a></li>
+          </ul>
+        </div>
+        <div>
+            <small><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a></small><br/>
+            <small>Copyright &copy; {{ site.year }} {{ site.author.name }}</small>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

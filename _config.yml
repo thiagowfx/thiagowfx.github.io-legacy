@@ -1,0 +1,93 @@
+title: Everyday Serendipity
+description: Thiago Perrotta's personal website
+url: 'https://thiagowfx.github.io'
+repository: "thiagowfx/thiagowfx.github.io"
+year: 2017
+
+# Site SEO metadata
+logo: /assets/images/me.jpg
+twitter:
+  username: thiagowfx
+social:
+  links:
+    - https://twitter.com/thiagowfx
+    - https://github.com/thiagowfx
+    - https://www.linkedin.com/in/thiagoperrotta
+    - https://keybase.io/thiagowfx
+
+# Author metadata
+author:
+  name: Thiago Perrotta
+  twitter: thiagowfx
+  github: thiagowfx
+  uri: https://thiagowfx.github.io
+  picture: /assets/images/me.jpg
+
+# Point @-mentions to Twitter
+jekyll-mentions:
+  base_url: https://twitter.com
+
+# Build settings
+timezone: "America/Sao_Paulo"
+encoding: utf-8
+exclude:
+  - LICENSE
+  - README.md
+  # Ruby
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .rubocop.yml
+  - .ruby-version
+  # Do not include original images in the site
+  - assets/images/original
+  # Vale configuration and styles
+  - .vale
+  - _styles
+include:
+  # Redirects file for Netlify
+  - _redirects
+
+# Markdown processing
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  auto_id_prefix: "section-"
+  auto_id_stripping: true
+  footnote_backlink: '&#8617;&#65038;'
+
+# Output
+permalink: "/posts/:title"
+feed:
+  path: /feed.atom
+
+# Frontmatter defaults
+defaults:
+  # Defaults for all items
+  - scope:
+      path: ""
+    values:
+      # A default card image for Twitter, etc.
+      image: /assets/images/me.jpg
+  # Work around https://github.com/jekyll/jekyll-sitemap/issues/141 and
+  # https://github.com/jekyll/jekyll-sitemap/issues/160
+  - scope:
+      path: "_drafts"
+    values:
+      sitemap: false
+  # Defaults for pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  # Defaults for posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post

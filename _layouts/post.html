@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <header>
+        <h1 itemprop="name headline">
+            <span style="text-align: center;"><a href="/">&#x25B2;</a></span> &nbsp;
+            {{ page.title | escape }}
+        </h1>
+
+        <p class="post-details">
+            <span itemprop="author" itemscope itemtype="http://schema.org/Person">{% if page.author %}<span itemprop="name">{{ page.author }}</span>{% else %}<a href="{{ '/about/' | relative_url }}" itemprop="name">{{ site.author.name }}</a>{% endif %}</span><br>
+            {% if page.last_modified_at %}
+            <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>
+            {% elsif page.date %}
+            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+            {% else %}
+            DRAFT, to be published!
+            {% endif %}
+        </p>
+
+        {% if page.description %}
+        <aside class="post-abstract">
+            <details open>
+                <summary><h6>Abstract</h6></summary>
+                <div itemprop="description">{{page.description | markdownify}}</div>
+            </details>
+        </aside>
+        {% endif %}
+    </header>
+
+    <div itemprop="articleBody">
+        {{ content }}
+    </div>
+</article>

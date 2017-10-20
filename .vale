@@ -1,0 +1,5 @@
+StylesPath = _styles
+MinAlertLevel = suggestion
+
+[*]
+BasedOnStyles = vale, write-good, TheEconomist

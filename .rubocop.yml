@@ -1,0 +1,8 @@
+AllCops:
+  Exclude:
+    - Gemfile
+    - node_modules/**/*
+    - vendor/**/*
+# Disable some cops that I don't need
+Style/Documentation:
+  Enabled: false
