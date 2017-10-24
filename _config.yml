@@ -6,6 +6,7 @@ year: 2017
 
 gems:
   - jekyll-feed
+  - jemoji
 
 # Site SEO metadata
 logo: /assets/images/me.jpg
