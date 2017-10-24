@@ -3,14 +3,13 @@ layout: default
 ---
 
 <article class="home">
-    <h1>{{ site.title }}</h1>
+    <a href="{{ "/" | relative_url }}"><h1>{{ site.title }}</h1></a>
 
-    Hi, I'm <a href="{{ "/about" | relative_url }}">{{ site.author.name }}</a>. Welcome to my blog!
+    Hi, I'm <a href="{{ "/about" | relative_url }}">{{ site.author.name }}</a>. Welcome to <i>{{ site.title }}</i>!
 
     <hr />
 
-    <p>Here's the list of my posts. You can <span class="rss-subscribe">subscribe <a href="{{ "/feed.atom" | relative_url }}">via Atom</a></span>!</p>
+    <p>Here's the list of my posts. You can <span class="rss-subscribe">subscribe to them <a href="{{ "/feed.atom" | relative_url }}">via Atom</a></span>!</p>
 
     {% include post-list.html posts=site.posts %}
-
 </article>

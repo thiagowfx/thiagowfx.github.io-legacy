@@ -45,9 +45,8 @@ exclude:
   # Vale configuration and styles
   - .vale
   - _styles
-include:
-  # Redirects file for Netlify
-  - _redirects
+# include:
+  # - _something_that_starts_with_an_underscore
 
 # Markdown processing
 markdown: kramdown

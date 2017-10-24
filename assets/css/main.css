@@ -14,7 +14,7 @@
  *   limitations under the License.
  */
 
- :root {
+:root {
     --base-font-size: 16px;
     --main-font-family: "Vollkorn", serif;
     --mono-font-family: "Iosevka SS08", monospace;
@@ -245,12 +245,6 @@ body > footer {
 .page-footer > div {
     justify-self: center;
     text-align: center;
-}
-
-.page-footer ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
 }
 
 .page-footer > div:last-child {

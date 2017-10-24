@@ -3,7 +3,7 @@ title: "Hello World"
 category: meta
 published: true
 excerpt: |
-  Hello world!
+  Your average <i>Hello world!</i> introductory post.
 ---
 
-Hello, world!
+Hello, 世界!

@@ -11,31 +11,31 @@
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/highlighting/solarized-light.css" | relative_url }}">
 
+    <!-- see jekyll-seo-tag gem -->
     {% seo %}
 
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </head>
   <body>
     <div class="container">
-        {{content}}
+        {{ content }}
     </div>
 
     <footer>
-      <div class="container page-footer">
-        <div>
-            <ul>
-                <li><a href="/">Homepage</a></li>
-                <li><a href="{{ "/about/" | relative_url }}">About</a></li>
-            </ul>
-        </div>
-        <div>
-          <ul>
-            <li><a href="{{ "/talks-and-projects/" | relative_url }}">Talks and projects</a></li>
-            <li><a href="{{ "/media" | relative_url }}">Media</a></li>
-          </ul>
-        </div>
-        <div>
-            <small><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a></small><br/>
+      <div class="page-footer">
+          <div>
+            <div>
+              <a href="{{ "/" | relative_url }}">Home</a>
+              &nbsp;&bull;&nbsp;
+              <a href="{{ "/about" | relative_url }}">About</a>
+              &nbsp;&bull;&nbsp;
+              <a href="{{ "/mentions" | relative_url }}">Mentions</a>
+            </div>
+            <a href="http://www.catb.org/hacker-emblem/faqs.html"><img height="15px" alt="Hacker Emblem" style="border-width:0" src="http://www.catb.org/hacker-emblem/glider.png" /></a>
+            <a href="https://opensource.org"><img height="15px" alt="Open Source Initiative" style="border-width:0" src="https://opensource.org/files/osi_keyhole_100X100_90ppi.png" /></a>
+            <br/>
+            <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+            <br/>
             <small>Copyright &copy; {{ site.year }} {{ site.author.name }}</small>
         </div>
       </div>
