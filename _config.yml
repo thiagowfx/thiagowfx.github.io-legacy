@@ -33,6 +33,7 @@ encoding: utf-8
 exclude:
   - LICENSE
   - README.md
+  - TODO.org
   # Ruby
   - Rakefile
   - Gemfile
