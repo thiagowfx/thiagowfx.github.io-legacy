@@ -4,6 +4,9 @@ url: 'https://thiagowfx.github.io'
 repository: "thiagowfx/thiagowfx.github.io"
 year: 2017
 
+gems:
+  - jekyll-feed
+
 # Site SEO metadata
 logo: /assets/images/me.jpg
 twitter:
