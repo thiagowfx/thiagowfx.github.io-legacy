@@ -4,10 +4,17 @@ category: tools
 tags: emacs
 published: true
 description: |
+  In our [last post](https://thiagoperrotta.wordpress.com/2017/10/12/c-h-f-taming-the-emacs-dinosaur-i/) of this series, I have declared my intentions and objectives to achieve a decent emacs     workflow and environment. Now, in this post, I will document how I have done it.
+excerpt: |
   Bootstrapping an emacs config <i>with style</i>.
 ---
 
-In our [last post](https://thiagoperrotta.wordpress.com/2017/10/12/c-h-f-taming-the-emacs-dinosaur-i/) of this series, I have declared my intentions and objectives to achieve a decent emacs workflow and environment. Now, in this post, I will document how I have done it.
+Table of Contents
+-----------------
+{:.no_toc}
+
+* Auto-generated table of contents
+{:toc}
 
 Package manager
 ---------------
@@ -121,4 +128,4 @@ Conclusion
 
 This setup is very KISS. It feels so KISS in such a way this post seems to become completely unnecessary. Anyway, I hope it was a good introduction on how to bootstrap your emacs settings from scratch.
 
-Here is my `emacs.d` repository: https://github.com/thiagowfx/.emacs.d. Try opening the `org` file present there to learn how its organization and literate programming look like.
+Here is my `emacs.d` repository: [https://github.com/thiagowfx/.emacs.d](https://github.com/thiagowfx/.emacs.d). Try opening the `org` file present there to learn how its organization and literate programming look like.
