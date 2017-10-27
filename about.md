@@ -4,7 +4,9 @@ permalink: /about/
 description: "{{ site.author.name }}"
 ---
 
-**Note**: *In construction!!!* <br/>
+**Note**: *In construction!!!*
+
+---
 
 <p style="text-align: center;">
 
