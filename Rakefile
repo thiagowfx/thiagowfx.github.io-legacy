@@ -39,12 +39,3 @@ namespace :run do
     sh 'jekyll', 'serve', '--livereload', '--future', '--drafts'
   end
 end
-
-namespace :test do
-  task :doctor do
-    sh 'jekyll', 'doctor'
-  end
-end
-
-desc 'Test the site'
-task test: ['test:doctor']
