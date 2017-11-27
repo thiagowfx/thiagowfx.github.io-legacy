@@ -1,8 +1,5 @@
 #+TITLE: Future improvements
 
-* Posts
-** TODO taming the emacs dinosaur - part II
-
 * Website
 ** TODO add pagination support
 ** TODO add tags support
