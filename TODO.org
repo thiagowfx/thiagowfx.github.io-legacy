@@ -4,7 +4,6 @@
 ** TODO add pagination support
 ** TODO add tags support
 ** TODO add categories support
-** TODO use embedded base64 for *all* small images
 
 * Performance & maintenance
 ** TODO vendorize third-party stuff with git submodules
