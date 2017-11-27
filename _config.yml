@@ -43,13 +43,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-  - .rubocop.yml
   - .ruby-version
   # Do not include original images in the site
   - assets/images/original
-  # Vale configuration and styles
-  - .vale
-  - _styles
 # include:
   # - _something_that_starts_with_an_underscore
 

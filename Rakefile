@@ -48,15 +48,3 @@ end
 
 desc 'Test the site'
 task test: ['test:doctor']
-
-namespace :lint do
-  desc 'Lint documents with vale'
-  task :vale do
-    sh 'vale', '--glob', '*.md', '.'
-  end
-
-  desc 'Lint ruby with rubocop'
-  task :ruby do
-    sh 'rubocop', '-D', '-E', '-S'
-  end
-end

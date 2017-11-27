@@ -16,7 +16,3 @@
 ** TODO gemfile
 
 ** TODO make =_config.yml= /KISS/
-
-* Style & QA
-** TODO assess rubocop
-** TODO assess vale
