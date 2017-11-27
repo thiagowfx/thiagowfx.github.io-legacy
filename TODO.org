@@ -7,8 +7,6 @@
 
 * Performance & maintenance
 ** TODO vendorize third-party stuff with git submodules
-** TODO automate common tasks with a rakefile
-** TODO add travis-ci
 ** TODO gemfile
 
 ** TODO make =_config.yml= /KISS/
