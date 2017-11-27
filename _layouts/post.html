@@ -9,7 +9,7 @@ layout: default
         </h1>
 
         <p class="post-details">
-            <span itemprop="author" itemscope itemtype="http://schema.org/Person">{% if page.author %}<span itemprop="name">{{ page.author }}</span>{% else %}<a href="{{ '/about/' | relative_url }}" itemprop="name">{{ site.author.name }}</a>{% endif %}</span><br>
+            <span itemprop="author" itemscope itemtype="http://schema.org/Person">{% if page.author %}<span itemprop="name">{{ page.author }}</span>{% else %}{{ site.author.name }}{% endif %}</span><br>
             {% if page.last_modified_at %}
             <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>
             {% elsif page.date %}

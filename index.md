@@ -5,7 +5,7 @@ layout: default
 <article class="home">
     <a href="{{ "/" | relative_url }}"><h1>{{ site.title }}</h1></a>
 
-    Hi, I'm <a href="{{ "/about" | relative_url }}">{{ site.author.name }}</a>. Welcome to <i>{{ site.title }}</i>!
+    Hi, I'm {{ site.author.name }}. Welcome to <i>{{ site.title }}</i>!
 
     <hr />
 

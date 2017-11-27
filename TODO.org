@@ -3,10 +3,6 @@
 * Posts
 ** TODO taming the emacs dinosaur - part II
 
-* Pages
-** STARTED improve footer
-** TODO fill 'about' page
-
 * Website
 ** TODO add pagination support
 ** TODO add tags support
