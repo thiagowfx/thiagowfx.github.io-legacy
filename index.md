@@ -19,7 +19,7 @@ layout: default
 
     <hr />
 
-    <p>Here's the list of my posts. You can <span class="rss-subscribe">subscribe to them <a href="{{ "/feed.atom" | relative_url }}">via Atom</a></span>!</p>
+    <p>Blog posts (you can <span class="rss-subscribe">subscribe to them via <a href="{{ "/feed.atom" | relative_url }}">atom</a></span>):</p>
 
     {% include post-list.html posts=site.posts %}
 </article>
